@@ -1,0 +1,9 @@
+springboot\aop\MyFirstAspect.class
+springboot\color\Black.class
+springboot\color\Blue.class
+springboot\rbt\IOCTest.class
+springboot\rbt\Config.class
+springboot\color\BlackFactory.class
+springboot\color\MyBeanPostProcessor.class
+springboot\color\Red.class
+springboot\service\MyService.class
